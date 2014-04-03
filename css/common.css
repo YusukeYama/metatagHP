@@ -5,13 +5,25 @@ html,body {
 	background-color:#FFFFFF;
 
 }
-header{
-	height: 10%;
-	/*height: 180px;*/
+.headline{
+
 	width: 100%;
-	position: fixed;
-	background-color: #0000FF;
 }
+.menu {
+	
+}
+.line {
+	margin: 3% 0 3% 0;
+}
+.title {
+	margin: 3% 0 3% 0;
+}
+.text {
+	width: 75%;
+	height :50%;
+	background-color: #6a5acd;
+}
+
 .twitter{
 	
 	position:relative;
