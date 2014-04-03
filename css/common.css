@@ -44,25 +44,31 @@ html,body {
 	width:124;
 	float:left;
 }
-.twitter{
-	
-	position:relative;
-	top:200px;
-	left:700px;
-}
-#logo{
-	top:100px;
-}
-#menu{
-	margin-top:30px;
-	margin-left:20px;;
-	
-	
-}
-#main_menu p{
-	width:120px;
-	height:auto;
-	text-align:center;
-	float:left;
 
+.float{
+
+	height:20%;
+	width:50%;
+	margin:0 auto;
+}
+
+.news{
+	/*position:relative;*/
+	/margin:0 auto;
+	/*left:30%;*/ 
+	width:60%;
+	height:200%;
+	overflow:auto;
+	border:2px solid #ffffff; 
+	float:left;
+}
+
+.twitter{
+	/*width:10%;*/
+	/*height:10%;*/
+	float:right;
+}
+
+.clear{
+	float:clear;
 }
